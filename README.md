@@ -13,7 +13,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express%20js-ffffff?style=for-the-badge&logo=express&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Expressjs-ffffff?style=for-the-badge&logo=express&logoColor=black"> 
 </div>
 
 <h3>Plan to Learn</h2>
