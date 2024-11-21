@@ -14,13 +14,13 @@
 <div>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express%20js-ffffff?style=for-the-badge&logo=express&logoColor=black"> 
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=MongoDB&logoColor=white">
 </div>
 
 <h3>Plan to Learn</h2>
 
 <div>
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/php-336699?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white">
