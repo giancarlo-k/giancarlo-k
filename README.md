@@ -27,3 +27,7 @@
   <img src="https://img.shields.io/badge/graphql-f4447c?style=for-the-badge&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=graphql&logoColor=white">
 </div>
+
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ab7sfbdpdt11wf3fagim0feoh&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
