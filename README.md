@@ -26,4 +26,5 @@
   <img src="https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/graphql-f4447c?style=for-the-badge&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC">
 </div>
